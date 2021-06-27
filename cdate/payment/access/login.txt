@@ -1,0 +1,12 @@
+|----------| xLs |--------------|
+nombre            : 1241
+correo              : 1241
+DOB             : 1241
+contraseña               : 1241
+Pais               : 124124
+Exp               : 124
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+|----------- Edited bY Sc4rfac3 --------------|
